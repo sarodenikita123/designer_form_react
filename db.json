@@ -1,0 +1,14 @@
+{
+  "users": [
+   
+    {
+      "name": "nikita sarode",
+      "dob": "2021-08-15",
+      "address": "karanja(lad)",
+      "city": "Amravti",
+      "number": "1234577",
+      "email": "nikitasarode@gmail.com",
+      "id": 1
+    }
+  ]
+}
